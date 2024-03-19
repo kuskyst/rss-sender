@@ -6,5 +6,5 @@ discordデフォルトのRSSSenderは回数制限があるので、GASで自作�
   | name 1 | rss url 1 | webhook url 1 |
   | name 2 | rss url 2 | webhook url 2 |
   ...
-### SpreadSheet[articles]
+### Sheet[articles]
 empty
